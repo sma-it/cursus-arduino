@@ -1,5 +1,5 @@
 # SMA-IT: Cursus Python
-Deze cursus kan je raadplegen op [https://sma-it.github.io/cursus-python/](https://sma-it.github.io/cursus-python/)
+Deze cursus kan je raadplegen op [https://sma-it.github.io/cursus-arduino/](https://sma-it.github.io/cursus-arduino/)
 
 ## Installatie
 
