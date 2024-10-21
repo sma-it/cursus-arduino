@@ -1,5 +1,5 @@
 ---
-title: Active Buzzer
+title: Passive Buzzer
 ---
 
 <div class="header1" id="top" markdown = "1"># Buzzer
